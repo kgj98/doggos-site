@@ -4,7 +4,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 const navigation = [
-  { name: "Interactive Exploration", href: "#explainer" },
+  { name: "Test Drive a Dog", href: "#explainer" },
   { name: "The Research", href: "#research" },
   { name: "Adoption Options", href: "#" },
   { name: "About Us", href: "#about" },
